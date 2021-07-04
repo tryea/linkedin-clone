@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Clone Linkedin website using React
 
 ## Technology Use
-*Javascript
-*React + Redux
-*Firebase
+* Javascript
+* React + Redux
+* Firebase
 
 ## Available Scripts
 
